@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
     s.license 		= { :type => 'MIT', :file => 'mit-license.txt'}
     s.author            = { 'Name' => 'tolgat@netrd.com.tr' }
     s.platform          = :ios
-    s.source            = { :git => 'https://github.com/tolgatan/KLMobileSDK.git', :tag => '1.0.4'}
+    s.source            = { :git => 'https://github.com/tolgatan/KLMobileSDK.git', :tag => '1.0.0'}
     s.dependency 	'KLCPaaSWebRTC'
     #s.source_files      = 'KLMobileSDK.framework/Headers/*.h'
     s.ios.deployment_target   = '9.0'
